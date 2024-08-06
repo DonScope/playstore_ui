@@ -1,2 +1,5 @@
+Simple PlayStore_UI replica
 
-![image](https://github.com/user-attachments/assets/192c1acd-dd76-46d6-b69c-81d739bcdf4e)
+Image attached below: 
+
+![image](https://github.com/user-attachments/assets/09de5269-3cac-457c-a723-87fe8c860308)
