@@ -307,16 +307,16 @@ class _SearchScreenState extends State<SearchScreen> {
           },
           items: const [
             BottomNavigationBarItem(
-              icon: Icon(Icons.home),
-              label: 'Home',
+              icon: Icon(Icons.games),
+              label: 'Games',
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.search),
-              label: 'Search',
+              icon: Icon(Icons.apps),
+              label: 'Apps',
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.person),
-              label: 'Profile',
+              icon: Icon(Icons.book),
+              label: 'Books',
             ),
           ],
         ),
